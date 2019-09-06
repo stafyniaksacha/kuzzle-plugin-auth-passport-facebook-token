@@ -1,0 +1,1 @@
+# kuzzle-plugin-auth-passport-facebook-token
